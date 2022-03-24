@@ -48,9 +48,9 @@ const App = () => {
         </div>
 
         <div>
-          <a target='_blank' href="https://instagram.com/jpegberto">
+          <a target='_blank' href="https://instagram.com/flatbedfr3style">
             <FontAwesomeIcon style={{fontSize:18.5, marginBottom:-2.5, marginRight:10}} icon={faInstagram}/>
-            jpegberto
+            flatbedfr3style
           </a>
         </div>
       
